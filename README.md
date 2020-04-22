@@ -1,2 +1,3 @@
-# bbjk
-BBJK Portfolio
+# BBJK
+
+Project for BBJK Portfolio
